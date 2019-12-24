@@ -1,0 +1,17 @@
+{
+    "name": "jeandev/janframework",
+    "description": "advanced framework project using mvc pattern",
+    "authors": [
+        {
+            "name": "Yao Jean-Claude",
+            "email": "jeandev84@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jan\\": "src/",
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
